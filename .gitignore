@@ -1,0 +1,7 @@
+# Internal studio documents: the repo is public and Pages would serve these
+*.pdf
+Quixotic-Entertainment-Studio-Identity.md
+
+# Local tooling
+.claude/
+

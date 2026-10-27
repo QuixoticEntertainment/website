@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <circle cx="32" cy="32" r="31" fill="#f26b3a"/>
+  <g fill="#12151c">
+    <polygon points="27,58 37,58 35,30 29,30"/>
+    <polygon points="27.5,31 36.5,31 32,24"/>
+    <g transform="rotate(45 32 27)"><g id="b">
+      <rect x="31" y="7" width="2" height="20"/>
+      <rect x="33" y="9" width="5" height="15" opacity=".85"/>
+    </g>
+    <use href="#b" transform="rotate(90 32 27)"/>
+    <use href="#b" transform="rotate(180 32 27)"/>
+    <use href="#b" transform="rotate(270 32 27)"/></g>
+    <circle cx="32" cy="27" r="2.6"/>
+  </g>
+</svg>
